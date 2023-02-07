@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Arjun Yadav</h1>
+<h1 align="left">Hey, I'm Arjun 👋!</h1>
 <h3 align="center">B.Tech Undergraduate at Indian Institute of Information Technology, Allahabad</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunyaduvanshi02&label=Profile%20views&color=0e75b6&style=flat" alt="arjunyaduvanshi02" /> </p>
